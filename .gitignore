@@ -1,0 +1,23 @@
+# Numerous always-ignore extensions 
+*.bak
+*.diff
+*.patch
+
+# temp file for git conflict merging
+*.log
+*.swp
+*.vi
+*.dump
+
+# Folders
+dist/
+lib/
+.DS_Store
+node_modules/
+/coverage
+
+# others
+npm-debug.log.*
+.vscode
+.idea
+
